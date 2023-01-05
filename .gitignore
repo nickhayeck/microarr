@@ -1,0 +1,9 @@
+# Build stuff
+**.DSYM
+build/**
+**.o
+# VSCode Stuff
+.vscode
+# vim stuff
+*.swp
+**.DS_STORE**
